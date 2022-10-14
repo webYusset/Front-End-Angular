@@ -1,0 +1,22 @@
+/*acerca de mi*/
+h2.acercaDeMi{
+    position: relative;
+    top: 40px;
+    left: 15px;
+    font-family: Verdana;
+    font-size: 21px;
+}
+
+p.acercaDeMi{
+   position: relative;
+   top: 25px;
+   right: 3000px;
+   left: 10px;
+   text-align: justify;
+   margin-right: 40px;
+   margin-left: 20px;
+   margin-bottom: 5px;
+   font-family: Verdana;
+
+ 
+}

@@ -1,0 +1,92 @@
+
+{
+   "nombre":"Yusset Rodríguez",
+   "imagenFondo":"./assets/imag/banner 2.png",
+   "foto":"#",
+   "icono":"# Yo Programo",
+   "fotoIcono":"./assets/imag/logo argentina programa.png",
+   "github":"./assets/imag/logo github.png",
+   "instagram":"./assets/imag/logo instagram.png",
+   "linkedin":"./assets/imag/logo linkedin.png",
+   "boton":"Login",
+   "titulo":"Odontóloga",
+   "tituloCurso":"Desarrollador Web Full Stack Junior",
+   "contacto":"Información de Contacto",
+   "tituloPerfil":"Acerca de Mí",
+   "acerca":"Mi nombre es Yusset Rodriguez, soy odontóloga, entusiasta del aprendizaje autodidacta, con conocimientos en Front-End de HTML, CSS, JAVASCRIPT y manejo del framework BOOSTRAP; actualmente me encuentro cursando el Programa Argentina Programa para poder obtener  la certificación como Programador Web Full Stack Junior.",
+   "tituloObjetivo":"Perfil Profesional",
+   "objetivoProfesional":"Me gustaría obtener una posición como desarrollador web y poder aplicar mis conocimientos. Mi perfil profesional es crear páginas web que ofrezcan innovación tecnológica y que, al mismo tiempo, le brinde la mejor experiencia digital a los usuarios.",
+   "educacionTitle":"Educación",
+   
+   "educacion":[{
+      "school":"Argentina Programa",
+       "title":"Desarrollador Web Full Stack Junior",
+       "imag":"./assets/imag/logo argentina programa.png",
+       "estadoTitle":"Estado:",
+       "estado":"Culminado",
+       "fecha2":"Fecha de Finalización:",
+       "fecha":"15/01/2023."  
+      },
+      {
+       "school":"VMEdu",
+       "title":"Certificado de Fundamentos Basicos en Scrum",
+       "imag":"./assets/imag/logoscrum.png",
+       "estadoTitle":"Estado:",
+       "estado":"Culminado",
+       "fecha2":"Fecha de Finalización:",
+       "fecha":"18/07/2022."      
+      },
+      {
+       "school":"Universidad Del Zulia",
+       "title":"Odontóloga",
+       "imag":"./assets/imag/logoluz-removebg-preview.png",
+       "estadoTitle":"Estado:",
+       "estado":"Culminado",
+       "fecha2":"Fecha de Finalización:",
+       "fecha":"10/12/2004."  
+      }
+   ],
+  "habilidades":{
+       "titulo":"Hard Skills",
+       "lenguajeUno":"HTML",
+       "lenguajeDos":"CCS",
+       "lenguajeTres":"JAVASCRIPT",
+       "porcentajeUno":"60%",
+       "porcentajeDos":"70%",
+       "porcentajeTres":"40%"
+      },
+  "actitudes":{
+       "titulo":"Soft Skills",
+       "tituloUno":"Escucha Activa",
+       "imgUno":"./assets/imag/iconoescuac.png",
+       "subtituloUno":"Me permite aprender y responder correctamente ante cualquier dificultad.",
+       "tituloDos":"Habilidades Interpersonales",
+       "imgDos":"./assets/imag/iconointerp.jpg",
+       "subtituloDos":"Puedo establecer con facilidad relación efectiva con otros compañeros, logrando un ambiente laboral agradable.",
+       "tituloTres":"Manejo De La Presión Laboral",
+       "imgTres":"./assets/imag/iconobajop.jpg",
+       "subtituloTres":"Tengo buena capacidad de trabajar bajo presión, lo cual me permite pensar con claridad para tomar desiciones acertivas.",
+       "tituloCuatro":"Flexibilidad",
+       "imgCuatro":"./assets/imag/iconoflex-removebg-preview.png",
+       "subtituloCuatro":"Gran capacidad de adaptarme a nuevas tareas y desafios sin complicaciones"
+       },
+     "proyecto":{
+        "imgP":"./assets/imag/cardport.jpg",
+        "titulo":"Proyecto",
+        "nombre1":"Proyecto Integrador",
+        "nombre2": "Portafolio Web",
+        "descripcion":"Este portafolio fue creado su Front-End con el stack Html, Css, Javascript; apoyándome en el framework Boostrap, así como también utilicé como editor de texto a Visual Studio Code; Git como controlador de versiones y Github como repositorio remoto.",
+        "boton":"Leer Más"
+        },
+    
+     "footer":{
+        "autor":"Autor: Yusset Rodríguez |2022| Argentina |",
+        "subtitulo":"Desarrollador Web Full Stack Junior"
+       }
+}   
+
+
+
+     
+
+     

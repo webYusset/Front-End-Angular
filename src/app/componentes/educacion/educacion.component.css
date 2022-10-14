@@ -1,0 +1,150 @@
+
+/*Educacion*/ 
+ul.instituciones{
+    list-style: none;
+    width: 100%;
+    height: 100px;
+  }
+  li.institucion1{
+      width: 100%;
+      height: 110px;
+  }
+  
+  h2.institucion1{
+      font-family: Verdana;
+      font-size: 16px;
+      position: relative;
+      left: 200px;
+      bottom: 130px ;
+  }
+  
+  h2.certificado1{
+      font-family: Verdana;
+      font-size: 14px;
+      position: relative;
+      left: 200px;
+      bottom: 155px;
+  }
+  
+  h3.institucion1{
+      margin-bottom: 100px;
+      position: relative;
+      bottom: 10px;
+      right: 20px;
+      margin-left: 0;
+      font-family: Verdana;
+      font-size: 21px;
+  }
+  
+  p.fechaDeI1{
+      font-family: verdana;
+      position: relative;
+      bottom: 185px;
+      left: 200px;  
+  }
+  
+  p.fechaDeF1{
+      font-family: verdana;
+      position: relative;
+      bottom: 200px;
+      left: 200px;   
+  }
+  img.logoInstitucion1{
+      position: relative;
+      bottom: 300px;
+      left: 10px;
+      width: 120px;
+      height: auto;
+  }
+  /*institución 2*/
+   li.institucion2{
+      list-style: none;
+      width: 100%;
+      height: 100px;
+      position: relative;
+      bottom: 140px;
+      }
+      
+      h2.institucion2{
+          font-family: Verdana;
+          font-size: 16px;
+          position: relative;
+          left: 200px;
+          top: 20px;
+      }
+      
+      h2.certificado2{
+          font-family: Verdana;
+          font-size: 14px;
+          position: relative;
+          left: 200px;
+          bottom: 5px;
+      } 
+      
+      p.fechaDeI2{
+        font-family: verdana;
+        position: relative;
+        bottom: 35px;
+        left: 200px;  
+    }
+
+    p.fechaDeF2{
+        font-family: verdana;
+         position: relative;
+         bottom: 50px;
+         left: 200px; 
+    }
+      
+      img.logoInstitucion2{
+          position: relative;
+          left: 10px;
+          width: 120px;
+          height: auto;
+          bottom: 130px;
+      }
+  
+  /*Instituto 3*/
+      li.institucion3{
+      list-style: none;
+      width: 100%;
+      height: 100px;
+      position: relative;
+      bottom: 150px;
+      }
+      
+      h2.institucion3{
+          font-family: Verdana;
+          font-size: 16px;
+          position: relative;
+          left: 200px;
+          top: 50px;
+      }
+      
+      h2.certificado3{
+          font-family: Verdana;
+          font-size: 14px;
+          position: relative;
+          left: 200px;
+          top: 20px;
+      }
+      
+      p.fechaDeI3{
+          font-family: verdana;
+          position: relative;
+          left: 200px;
+          bottom: 10px;  
+      }
+      
+      p.fechaDeF3{
+          font-family: verdana;
+          position: relative;
+          left: 200px; 
+          bottom: 25px;  
+      }
+      img.logoInstitucion3{
+          position: relative;
+          left: 10px;
+          width: 120px;
+          height: auto;
+          bottom: 140px;
+      }

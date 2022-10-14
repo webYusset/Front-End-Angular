@@ -1,0 +1,14 @@
+/*Footer Boostrap*/
+div#footer.card-body{
+    width: 100%;
+    height: 80px;
+    background: #d6a5e5;
+    margin-top: 343px;
+    text-align: center;
+ }
+
+ h5.footer{
+    font-size: 14px;
+    font-family: verdana;
+     padding: 25px;
+}

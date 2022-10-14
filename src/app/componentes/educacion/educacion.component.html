@@ -1,0 +1,11 @@
+ <!--Educación-->
+<ul class="instituciones">
+  <h3 class="institucion1"><strong>{{miPortafolio.educacionTitle}}</strong></h3><br> 
+  <li *ngFor="let educacion of educacionList"  class="institucion1" >
+      <h2 class="institucion1"><strong> {{educacion.school}}</strong></h2><br>
+      <h2 class="certificado1">{{educacion.title}}</h2><br>
+      <p class="fechaDeI1"><strong>{{educacion.estadoTitle}}</strong>{{educacion.estado}} </p>
+      <p class="fechaDeF1"><strong>{{educacion.fecha2}}</strong>{{educacion.fecha}} </p>
+      <img class="logoInstitucion1" [src]="educacion.imag" alt="">
+    </li>
+  </ul>

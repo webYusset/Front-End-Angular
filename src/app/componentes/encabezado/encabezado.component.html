@@ -1,0 +1,24 @@
+<header class="header">
+    <div class="logo"><img [src]="miPortafolio.fotoIcono"alt="logo de argentina programa"> <strong> {{miPortafolio.icono}}</strong></div>
+     <nav>
+       <ul class="nav-links">
+         <li><a href="#"><img [src]="miPortafolio.github" width="40" height="40" alt=""></a></li>
+         <li><a href="#"><img [src]="miPortafolio.instagram" width="40" height="40" alt=""></a></li>
+         <li><a href="#"><img [src]="miPortafolio.linkedin"width="40" height="40"  alt=""></a></li>
+       </ul>
+     </nav>
+      <a href="#" class="btn"><button>{{miPortafolio.boton}}</button></a>
+    
+    </header>
+     <!--banner boostrap-->
+    <div>
+      <img [src]="miPortafolio.imagenFondo" width="100%"  height="auto" alt="">
+    </div>
+     <div class="container-fluid position absolute">
+       <div class="d-flex flex-row-reverse"> <img class="rounded-circle float-end"  src="./assets/imag/IMG-20220911-WA0005.jpg"  width="150" height="150" alt=""></div>
+        <h6 class="text-center">
+          <small>{{miPortafolio.titulo}}</small><br>
+          <small><strong>{{miPortafolio.tituloCurso}}</strong></small><br>
+          <a class="inf" href="#"> {{miPortafolio.contacto}} </a>
+        </h6> 
+     </div>
